@@ -22,7 +22,7 @@ analysis.plot_data(data=df, save_fig=True, path="figure1.tiff")
 
 
     
-![alt text](http://url/to/img.png)
+!https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/img.png
     
 
 
