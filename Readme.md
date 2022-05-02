@@ -22,7 +22,7 @@ analysis.plot_data(data=df, save_fig=True, path="figure1.tiff")
 
 
     
-![png](Readme_files/Readme_5_0.png)
+![alt text](http://url/to/img.png)
     
 
 
