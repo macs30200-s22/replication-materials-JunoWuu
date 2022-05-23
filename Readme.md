@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6486884.svg)](https://doi.org/10.5281/zenodo.6486884)
+
+
 # MACS 30200 Project
 
 Author: Juno Wu
