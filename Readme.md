@@ -38,27 +38,27 @@ If you use this repository for a scientific publication, we would appreciate it 
 
 ## Results
 
-Here, we are testing whether each variable is associated with future teen pregnancy possibility. To test this, I used Chi-square test. Here, each variable is tested independently. The results are in the graph:\
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Chisquare.png">\
+Here, we are testing whether each variable is associated with future teen pregnancy possibility. To test this, I used Chi-square test. Here, each variable is tested independently. The results are in the graph:
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Chisquare.png">
 
 
-Then, I build simple based models with only one variables in them to predict teen pregnancy. The results are shown below:\
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/LR1.png">\
+Then, I build simple based models with only one variables in them to predict teen pregnancy. The results are shown below:
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/LR1.png">
 
 
-We see that all the variables are significant though the significance varies in degrees. I then applied model selection process to see if adding each variable up into a single model would improve the model's performance.\
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/ModelSelection.png">\
+We see that all the variables are significant though the significance varies in degrees. I then applied model selection process to see if adding each variable up into a single model would improve the model's performance
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/ModelSelection.png">
 
 
-Another important finding is that these variables do not have the same power when they are tested in different racial groups. For example, when they are tested in Hispanic group:\
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Hispanic.png">\
+Another important finding is that these variables do not have the same power when they are tested in different racial groups. For example, when they are tested in Hispanic group:
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Hispanic.png">
 
 
-The result from black group:\
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Black.png">\
+The result from black group:
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/Black.png">
 
 
-The result from white group:\
+The result from white group:
 <img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/White.png">
 
 
