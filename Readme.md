@@ -32,11 +32,11 @@ Here, we are testing whether each variable is associated with future teen pregna
 
 
 Then, I build simple based models with only one variables in them to predict teen pregnancy. The results are shown below:
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/LR1.png">
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/single%20model.png">
 
 
 We see that all the variables are significant though the significance varies in degrees. I then applied model selection process to see if adding each variable up into a single model would improve the model's performance
-<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/model selection.png">
+<img src="https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/model%20selection.png">
 
 
 Another important finding is that these variables do not have the same power when they are tested in different racial groups. For example, when they are tested in Hispanic group:
