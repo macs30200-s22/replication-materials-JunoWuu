@@ -18,7 +18,7 @@ The code is written in Python 3.9.7 and all of its dependencies can be installed
 pip install -r requirement.txt
 ```
 
-Then, you can import the project jupyter notebook in this repository to reproduce the analysis in the paper that this code supplements.
+Then, you can run the [project jupyter notebook](https://github.com/macs30200-s22/replication-materials-JunoWuu/blob/main/project.ipynb) in this repository to reproduce the analysis in the paper that this code supplements.
 Notice that the output tables in the notebook is not presented in the paper. They have been extracted and combined on Microsoft before being presented in the paper.  
 
 Alternatively, to reprelicate the analysis and produce all of the figures and quantitative analyses from this paper that this code supplements, build and run the Dockerfile included in this repository via the instructions in the file. 
