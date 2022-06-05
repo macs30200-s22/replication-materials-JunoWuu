@@ -18,19 +18,8 @@ The code is written in Python 3.9.7 and all of its dependencies can be installed
 pip install -r requirement.txt
 ```
 
-Then, you can import the analysis module located in this repository to reproduce the analysis in the paper that this code supplements:
-
-
-```python
-import analysis 
-```
-
-
-```python
-python3 analysis.py
-```
-
-To view the results, you can find the table and graphs in analysis.ipynb.
+Then, you can import the project jupyter notebook in this repository to reproduce the analysis in the paper that this code supplements.
+Notive the graph in the notebook is not presented in the paper. They have been extracted and combined into tables. 
 
 Alternatively, to reprelicate the analysis and produce all of the figures and quantitative analyses from this paper that this code supplements, build and run the Dockerfile included in this repository via the instructions in the file. 
 
